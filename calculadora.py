@@ -1,4 +1,4 @@
-a = int(input("Digite o primeiro valor"))
-b = int(input("Digite o primeiro valor"))
+a = float(input("Digite o primeiro valor"))
+b = float(input("Digite o primeiro valor"))
 resultado = a+b
 print(resultado)
